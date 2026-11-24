@@ -1,0 +1,6 @@
+{
+  "name": "Cadê o gatinho?",
+  "description": "Um jogo cozy em pixel art de esconde-esconde no jardim encantado com uma surpresa romântica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
